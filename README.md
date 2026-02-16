@@ -120,7 +120,9 @@
 
 # 🐍 Contribution Graph
 
-![snake gif](https://raw.githubusercontent.com/Kripanshu-Gupta/Kripanshu-Gupta/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/Kripanshu-Gupta/Kripanshu-Gupta/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
