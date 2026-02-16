@@ -94,19 +94,12 @@
 
 <p align="center">
   <a href="https://www.geeksforgeeks.org/profile/guptakrip">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Kripanshu%20Gupta-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+    <img src="https://gfgstatscard.vercel.app/guptakrip" />
   </a>
 </p>
 
 ---
 
-## 📈 Coding Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kripanshu-Gupta&theme=react-dark&hide_border=true"/>
-</p>
-
----
 
 ## 🔥 Contribution Heatmap
 
