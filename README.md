@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi there, I'm Kripanshu Gupta 👋 
 
 <p align="left">
@@ -6,35 +5,46 @@
 </p>
 
 ### 🚀 About Me
-I am a passionate **MERN-Stack Developer** and **Web3 Enthusiast**. I love building scalable web applications and exploring the decentralized future through Smart Contracts and Blockchain technology.
+I am a **Full-Stack MERN Developer** and **Web3 Enthusiast** with a strong foundation in C++ and Data Structures.
+- 👨‍💻 **Engineering Intern** at Blackhawk Network
+- 🏆 **HackSrit'25 Winner** & Finalist at Execute 4.0
+- 🌟 **4-star coder** on GeeksforGeeks
+- 🌱 Learning **Advanced Solidity & Smart Contract Security**
+- 📫 Reach me at: gkripanshustranger@gmail.com
 
-- 🔭 I’m currently working on **Full-Stack MERN Projects**
-- 🌱 I’m currently learning **Advanced Solidity & Smart Contract Security**
-- 💬 Ask me about **React, Node.js, or Web3**
-- 📫 How to reach me: linkedin.com/in/kripanshu-gupta-a66349261
+---
+
+### 🛠️ Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **ReelsPro-Extension** | AI-powered content moderation & enhancement | React, Node.js, AI |
+| **AgentX-Travel-India** | AI-driven travel assistant for the Indian market | MERN, AI APIs |
+| **DSA Instructor Platform** | Educational platform for coding mentorship | React, Express, MongoDB |
+| **Smart Meter AI** | Analytics platform for smart meter data | Python, MERN |
 
 ---
 
 ### ⚒️ Tech Stack
 
-**Frontend & Backend**
+**Languages & Core**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind,nodejs,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=cpp,js,typescript,solidity" />
   </a>
 </p>
 
-**Web3 & Blockchain**
+**Web Development**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=solidity,ethers,ipfs" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind" />
   </a>
 </p>
 
 **Tools & Platforms**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,docker" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,docker" />
   </a>
 </p>
 
