@@ -73,6 +73,49 @@
 
 ---
 
+# 💻 Coding Stats
+
+## 🟡 LeetCode Profile
+
+<p align="center">
+  <a href="https://leetcode.com/u/kripanshu123/">
+    <img src="https://leetcard.jacoblin.cool/kripanshu123?theme=dark&font=baloo&border=0" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Problems%20Solved-235+-yellow?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Primary%20Language-C++-blue?style=for-the-badge"/>
+</p>
+
+---
+
+## 🟢 GeeksforGeeks Profile
+
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/guptakrip">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Kripanshu%20Gupta-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📈 Coding Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kripanshu-Gupta&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Contribution Heatmap
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/ff69b4/Kripanshu-Gupta" />
+</p>
+
+---
+
 # 🏆 Achievements
 
 🏆 HackSRIT'25 Winner  
@@ -85,16 +128,6 @@
 # 🐍 Contribution Graph
 
 ![snake gif](https://raw.githubusercontent.com/Kripanshu-Gupta/Kripanshu-Gupta/output/github-contribution-grid-snake.svg)
-
----
-
-# 📈 Coding Profiles
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-4★%20Coder-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DSA-Strong%20Foundation-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MERN-Full%20Stack-green?style=for-the-badge"/>
-</p>
 
 ---
 
